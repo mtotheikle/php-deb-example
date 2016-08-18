@@ -1,4 +1,4 @@
-output_path: /mnt/out
+output_path: ./build
 mount:
   - {src: "/src", dest: "/usr/shara/mysw"}
 control:
