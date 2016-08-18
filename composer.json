@@ -1,0 +1,12 @@
+{
+    "name": "mtotheikle/php-deb-package-example",
+    "require": {
+        "wdalmut/php-deb-describe": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Michael Williams",
+            "email": "mtotheikle@gmail.com"
+        }
+    ]
+}
